@@ -1,33 +1,67 @@
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\appsettings.Development.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\appsettings.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\prvi.staticwebassets.endpoints.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\prvi.exe
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\prvi.deps.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\prvi.runtimeconfig.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\prvi.dll
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\prvi.pdb
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\bin\Debug\net9.0\Microsoft.OpenApi.dll
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.csproj.AssemblyReference.cache
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\rpswa.dswa.cache.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.AssemblyInfoInputs.cache
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.AssemblyInfo.cs
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.csproj.CoreCompileInputs.cache
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.sourcelink.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\rjimswa.dswa.cache.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\scopedcss\bundle\prvi.styles.css
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\staticwebassets.build.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\staticwebassets.build.json.cache
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\staticwebassets.development.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.csproj.Up2Date
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.dll
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\refint\prvi.dll
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.pdb
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\prvi.genruntimeconfig.cache
-C:\Users\ljubomir\Desktop\sistemsko-projekat-1\prvi\obj\Debug\net9.0\ref\prvi.dll
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/appsettings.Development.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/appsettings.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.staticwebassets.endpoints.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.exe
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.deps.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.runtimeconfig.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.dll
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.pdb
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.csproj.AssemblyReference.cache
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rpswa.dswa.cache.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.AssemblyInfoInputs.cache
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.AssemblyInfo.cs
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.csproj.CoreCompileInputs.cache
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.sourcelink.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/scopedcss/bundle/prvi.styles.css
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.build.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.build.json.cache
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.development.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.csproj.Up2Date
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.dll
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/refint/prvi.dll
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.pdb
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.genruntimeconfig.cache
+C:/Users/ljubomir/Desktop/sistemsko-projekat-1/prvi/obj/Debug/net9.0/ref/prvi.dll
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/appsettings.Development.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/appsettings.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.staticwebassets.endpoints.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.deps.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.runtimeconfig.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.dll
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/prvi.pdb
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.csproj.AssemblyReference.cache
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.GeneratedMSBuildEditorConfig.editorconfig
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.AssemblyInfoInputs.cache
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.AssemblyInfo.cs
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.csproj.CoreCompileInputs.cache
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.MvcApplicationPartsAssemblyInfo.cs
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.MvcApplicationPartsAssemblyInfo.cache
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.sourcelink.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/scopedcss/bundle/prvi.styles.css
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.build.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.development.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/swae.build.ex.cache
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.csproj.Up2Date
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.dll
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/refint/prvi.dll
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.pdb
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/prvi.genruntimeconfig.cache
+/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/obj/Debug/net9.0/ref/prvi.dll

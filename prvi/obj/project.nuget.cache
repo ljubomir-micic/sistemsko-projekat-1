@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "e6B+5FxaRJ0=",
+  "dgSpecHash": "0ml4YyiVGRk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ljubomir\\Desktop\\sistemsko-projekat-1\\prvi\\prvi.csproj",
+  "projectFilePath": "/home/veljko-aleksic/Desktop/ELFAK/Sistemsko programiranje/PrviProjekat/sistemsko-projekat-1/prvi/prvi.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\ljubomir\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.10\\microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
-    "C:\\Users\\ljubomir\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "/home/veljko-aleksic/.nuget/packages/microsoft.aspnetcore.openapi/9.0.10/microsoft.aspnetcore.openapi.9.0.10.nupkg.sha512",
+    "/home/veljko-aleksic/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",
+    "/home/veljko-aleksic/.nuget/packages/microsoft.netcore.app.ref/9.0.15/microsoft.netcore.app.ref.9.0.15.nupkg.sha512",
+    "/home/veljko-aleksic/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.15/microsoft.aspnetcore.app.ref.9.0.15.nupkg.sha512",
+    "/home/veljko-aleksic/.nuget/packages/microsoft.netcore.app.host.linux-x64/9.0.15/microsoft.netcore.app.host.linux-x64.9.0.15.nupkg.sha512"
   ],
   "logs": []
 }
