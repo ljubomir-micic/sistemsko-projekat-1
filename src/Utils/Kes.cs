@@ -28,12 +28,14 @@ namespace Projekat
                 }
                 else
                 {
-                    // Obrisi prvu -> dodaj
-                    Slika outImg; // Dummy objekat, stoji samo zbog funkcije Remove
-                    kes.Remove(ListOfLinks.First(), out outImg!);
-                    if(kes.TryAdd(link, slika))
-                        Console.WriteLine("The image has been successfully added" + '\n');
-
+                    if(kes.TryRemove(ListOfLinks.First(), out _))
+                    {
+                        if(kes.TryAdd(link, slika))
+                            Console.WriteLine("The image has been successfully added" + '\n');
+                    }
+                    else {
+                        System.Console.WriteLine("There is problem with freeing the space in cash...");
+                    }
                 }
             }
         }
