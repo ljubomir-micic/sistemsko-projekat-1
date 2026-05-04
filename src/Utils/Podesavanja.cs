@@ -2,6 +2,6 @@ namespace Projekat
 {
     public class Podesavanja
     {
-        public static readonly int brojPorta = 5050;
+        public static readonly int brojPorta = 8080;
     }
 }

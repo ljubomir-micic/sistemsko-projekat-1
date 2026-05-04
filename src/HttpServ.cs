@@ -22,14 +22,14 @@ namespace Projekat
             while (true)
             {
                 HttpListenerContext context = listener.GetContext();
-                ThreadPool.QueueUserWorkItem(new WaitCallback(HttpServ.ObradaZahteva), context);
+                ThreadPool.QueueUserWorkItem(new WaitCallback(HttpServ.ObradaZahteva!), context);
             }
         }
 
         public static void ObradaZahteva(object state)
         {
             HttpListenerContext context = (HttpListenerContext) state;
-            string query = context.Request.RawUrl.Substring(1);
+            string query = context.Request.RawUrl!.Substring(1);
 
             if (string.IsNullOrEmpty(query))
             {
