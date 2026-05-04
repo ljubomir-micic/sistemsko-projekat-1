@@ -34,7 +34,7 @@ namespace Projekat
                         slika = new Slika(ms.ToArray());
                     }
                 }
-            } catch (Exception e)
+            } catch (Exception)
             {
                 return null;
             }

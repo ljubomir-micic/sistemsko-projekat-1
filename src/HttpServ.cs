@@ -47,8 +47,14 @@ namespace Projekat
                 // TODO: Ako slika ne postoji, vrati prazan HTML sa Error 404 Not Found
                 if (slika == null)
                 {
-                    context.Response.StatusCode = (int)HttpStatusCode.BadRequest;
-                    context.Response.ContentLength64 = 0;
+                    string respStr = $"<html><body><h1>Error 404: Item not found!</h1></body></html>";
+                    context.Response.ContentType = "text/html";
+                    context.Response.StatusCode = (int) HttpStatusCode.NotFound;
+                    byte[] buff = Encoding.UTF8.GetBytes(respStr);
+                    context.Response.ContentLength64 = buff.Length;
+                    context.Response.OutputStream.Write(buff, 0, buff.Length);
+                    context.Response.OutputStream.Close();
+                    // context.Response.ContentLength64 = 0;
                     context.Response.Close(); // ← missing in your code
                     return;
                 }

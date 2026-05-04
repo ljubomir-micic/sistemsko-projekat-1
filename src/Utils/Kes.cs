@@ -10,10 +10,10 @@ namespace Projekat
         public readonly ConcurrentDictionary<string, Slika> kes = new ConcurrentDictionary<string, Slika>();
         public object _lock = new object();
 
-        public Kes()
-        {
+        // public Kes()
+        // {
             
-        }
+        // }
 
         public void DodajStavku(string link, Slika slika)
         {
