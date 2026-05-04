@@ -18,12 +18,52 @@ namespace Projekat
             Console.WriteLine("Server je pokrenut");
             Console.WriteLine($"http://localhost:{Podesavanja.brojPorta}/");
         
+            Thread graceful = new Thread(() =>
+            {
+                Console.WriteLine("The graceful shutdown key is 'q'.");
+                while (listener.IsListening)
+                {
+                    if (Console.KeyAvailable)
+                    {
+                        var key = Console.ReadKey(intercept: true);
+                        if (key.Key == ConsoleKey.Q)
+                        {
+                            listener.Stop();
+                            listener.Close();
+                            break;
+                        }
+                        else
+                        {
+                            Console.WriteLine("Wrong key! The graceful shutdown key is 'q'.");   
+                        }
+                    }
+                    else
+                    {
+                        Thread.Sleep(10);
+                    }
+                }
+            });
 
+            graceful.Start();
             while (true)
             {
-                HttpListenerContext context = listener.GetContext();
-                ThreadPool.QueueUserWorkItem(new WaitCallback(HttpServ.ObradaZahteva!), context);
+                if(Console.KeyAvailable)
+                try
+                {
+                    HttpListenerContext context = listener.GetContext();
+                    ThreadPool.QueueUserWorkItem(new WaitCallback(HttpServ.ObradaZahteva!), context);
+                    
+                }
+                catch (HttpListenerException)
+                {
+                    break;
+                }
+                catch (ObjectDisposedException)
+                {
+                    break;
+                }
             }
+            graceful.Join();
         }
 
         public static void ObradaZahteva(object state)
