@@ -17,7 +17,7 @@ namespace Projekat
             listener.Start();
             Console.WriteLine("Server je pokrenut");
             Console.WriteLine($"http://localhost:{Podesavanja.brojPorta}/");
-        
+
             Thread graceful = new Thread(() =>
             {
                 Console.WriteLine("The graceful shutdown key is 'q'.");
@@ -29,40 +29,34 @@ namespace Projekat
                         if (key.Key == ConsoleKey.Q)
                         {
                             listener.Stop();
-                            listener.Close();
                             break;
                         }
                         else
                         {
-                            Console.WriteLine("Wrong key! The graceful shutdown key is 'q'.");   
+                            Console.WriteLine("Wrong key... The graceful shutdown key is 'q'.");
                         }
                     }
                     else
                     {
-                        Thread.Sleep(10);
+                        Thread.Sleep(50);
                     }
                 }
             });
-
             graceful.Start();
+
             while (true)
             {
-                if(Console.KeyAvailable)
                 try
                 {
                     HttpListenerContext context = listener.GetContext();
                     ThreadPool.QueueUserWorkItem(new WaitCallback(HttpServ.ObradaZahteva!), context);
-                    
                 }
-                catch (HttpListenerException)
-                {
-                    break;
-                }
-                catch (ObjectDisposedException)
+                catch (Exception)
                 {
                     break;
                 }
             }
+
             graceful.Join();
         }
 
@@ -81,10 +75,10 @@ namespace Projekat
             Slika? slika = Program.kes[query];
             if (slika == null)
             {
-                // TODO: Pronadji sliku iz file sistema, obradi je i smesti u kes
+                // DONE: Pronadji sliku iz file sistema, obradi je i smesti u kes
                 slika = Slika.ObradiSliku(query);
 
-                // TODO: Ako slika ne postoji, vrati prazan HTML sa Error 404 Not Found => RESENO
+                // DONE: Ako slika ne postoji, vrati prazan HTML sa Error 404 Not Found => RESENO
                 if (slika == null)
                 {
                     string respStr = $"<html><body><h1>Error 404: Item not found!</h1></body></html>";
@@ -111,6 +105,7 @@ namespace Projekat
             context.Response.OutputStream.Write(buffer, 0, buffer.Length);
             context.Response.OutputStream.Close();
             context.Response.Close();
+            Console.WriteLine("Zahtev je uspesno obradjen i rezultat je vracen!");
         }
     }
 }
