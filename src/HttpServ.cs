@@ -44,7 +44,7 @@ namespace Projekat
                 // TODO: Pronadji sliku iz file sistema, obradi je i smesti u kes
                 slika = Slika.ObradiSliku(query);
 
-                // TODO: Ako slika ne postoji, vrati prazan HTML sa Error 404 Not Found
+                // TODO: Ako slika ne postoji, vrati prazan HTML sa Error 404 Not Found => RESENO
                 if (slika == null)
                 {
                     string respStr = $"<html><body><h1>Error 404: Item not found!</h1></body></html>";
@@ -55,7 +55,7 @@ namespace Projekat
                     context.Response.OutputStream.Write(buff, 0, buff.Length);
                     context.Response.OutputStream.Close();
                     // context.Response.ContentLength64 = 0;
-                    context.Response.Close(); // ← missing in your code
+                    context.Response.Close();
                     return;
                 }
 

@@ -2,7 +2,7 @@
 {
     public class Program
     {
-        public static Kes kes = new Kes();
+        internal static Kes kes = new Kes();
         public static void Main(string[] args)
         {
             // Thread separate = new Thread(() => {
@@ -10,7 +10,7 @@
             //     System.Console.WriteLine(key);
                 
             // });
-            
+
             HttpServ.StartServ();
         }
     }
